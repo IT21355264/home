@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21355264&show_icons=true&locale=en" alt="it21355264" /></p>
 
-<p><img align="center" src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="it21355264" /></p>
+
 
 
