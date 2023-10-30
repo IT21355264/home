@@ -1,7 +1,7 @@
 
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Hansini Wijesinghe</h1>
-<h3 align="center">I am an enthusiastic software engineering undergraduate student, with a passion for creating innovative solutions through technology. I am always eager to learn and improve, and I am excited to share my work and ideas.</h3>
+<h3 align="center">I am an enthusiastic data science undergraduate student, with a passion for harnessing the power of data to create innovative solutions and drive meaningful insights. I am always eager to learn and improve my data analysis skills, and I am excited to share my data-driven work and ideas with the world.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
