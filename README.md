@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN stack ,mobile application development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IT21355264?tab=repositories](https://github.com/IT21355264?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/IT21355264?tab=repositories](https://github.com/IT21355264?tab=repositories)(https://github.com/IT21355264)
 
 - 📫 How to reach me **wijesinghehansini@gmail.com**
 
